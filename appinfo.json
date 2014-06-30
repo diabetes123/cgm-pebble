@@ -62,8 +62,8 @@
         ]
     },
     "versionCode": 3,
-    "shortName": "CGM 2",
-    "longName": "CGM 2",
+    "shortName": "CGM 3",
+    "longName": "CGM 3",
     "watchapp": {
         "watchface": true
     },
